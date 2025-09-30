@@ -34,7 +34,7 @@ This repo contains all beginner and intermediate-level Java projects I completed
 
 ## 📄 Final Report
 
-- ['Final Report  - Java Development.pdf`](Final Report  - Java Development.pdf) explains learning outcomes, challenges, and solutions during Java development.
+- ['Final Report  - Java Development.pdf`](FinalReport-JavaDevelopment.pdf) explains learning outcomes, challenges, and solutions during Java development.
 
 ---
 
