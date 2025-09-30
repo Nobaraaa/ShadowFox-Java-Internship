@@ -12,7 +12,7 @@ This repo contains all beginner and intermediate-level Java projects I completed
 ## 🔗 About Me
 
 **Name:** Dhivya Lakshmi S
-**Internship Domain:** Java Development  
+**Internship Domain** Java Development
 **Period:** [Sept 1st – Sept 30th]  
 **Mentor Organization:** ShadowFox
 
